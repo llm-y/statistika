@@ -19,8 +19,15 @@ Naive Bayes -> data sudah terdistribusi secara normal
 KNN -> lazy algoritm, non parametrik (tidak peduli distribusi) , diskrit, kategorical sama halnya dengan Decission Tree, Random Forest
 ```
 
+Why?
 
+Belajar statistika untuk memahami karakteristik data agar bisa menggunakan metode yang tepat dari karakteristik tersebut
 
 
 ## Discrete Probability
 
+### Expected Value
+
+### Variance and Standar Deviation
+
+### Geometric Random Variabel
