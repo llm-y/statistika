@@ -11,5 +11,16 @@ Jadwal
 * tgl 8 Sept 2025 (Onsite) 09.30-11.00: Non-parametric statistics
 * tgl 9 Sept 2025 (online, self-paced learning): ANOVA (Quiz 3)
 
+highlights
+```txt
+Suatu metode lahir dari asumsi
+
+Naive Bayes -> data sudah terdistribusi secara normal
+KNN -> lazy algoritm, non parametrik (tidak peduli distribusi) , diskrit, kategorical sama halnya dengan Decission Tree, Random Forest
+```
+
+
+
+
 ## Discrete Probability
 
